@@ -1,14 +1,59 @@
-.homeMain{
-    animation : fadein 4s;
-		-webikt-animation : fadein 4s;
+.mainSection{
+	animation : fadein 4s;
+	-webikt-animation : fadein 4s;
 }
 
 @-webkit-keyframes fadein{
-		from{
-				opacity : 0;
-		}
+	from{
+		opacity : 0;
+	}
 			
-		to {
-				opacity : 1;
-		}
+	to {
+		opacity : 1;
+	}
+}
+
+#me>img{
+	width : 100px;
+}
+
+#me{
+	margin : auto;
+	display : block;
+	width : 100px;
+	position : relative;
+	top : 43%;
+}
+
+.menu{
+	border : 1px solid black;
+	width : 250px;
+	height : 120px;
+	border-radius : 65px;
+}
+
+.porfolio{
+	margin : 0;
+	display : inline-block;
+	position : relative;
+	top : -10%;
+}
+
+.menu2{
+	position : relative;
+	bottom : -35%;
+}
+
+.skill{
+	margin : 0;
+	display : inline-block;
+	position : relative;
+	left : -10%;
+}
+
+.about{
+	margin : 0;
+	display : inline-block;
+	position : relative;
+	right : -10%;
 }
