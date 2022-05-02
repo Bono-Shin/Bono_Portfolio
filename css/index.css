@@ -1,25 +1,3 @@
-html, body{
-	margin : 0;
-	width : 100%;
-	height : 100%;
-}
-
-section{
-	margin : 0;
-	width : 100%;
-	height : 100%;
-	display : flex;
-	justify-content : center;
-	align-items : center;
-}
-
-.mainSection{
-	text-align : center;
-	width : 800px;
-	height : 600px;
-	border : 1px solid black;
-}
-
 #main{
 	width : 100%;
 	height : 100%;
