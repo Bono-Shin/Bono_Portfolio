@@ -1,0 +1,14 @@
+.homeMain{
+    animation : fadein 4s;
+		-webikt-animation : fadein 4s;
+}
+
+@-webkit-keyframes fadein{
+		from{
+				opacity : 0;
+		}
+			
+		to {
+				opacity : 1;
+		}
+}
