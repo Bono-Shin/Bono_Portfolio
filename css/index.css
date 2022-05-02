@@ -1,7 +1,5 @@
 section{
 	text-align : center;
-	background-color : black;
-	z-index : -1;
 }
 
 .mainSection{
@@ -10,6 +8,7 @@ section{
 	max-height : 600px;
 	position : relative;
 	top : 30%;
+	border : 1px solid black;
 }
 
 #main{
