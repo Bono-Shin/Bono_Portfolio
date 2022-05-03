@@ -110,6 +110,10 @@
 	top : -10px;
 }
 
+.projectLogo img:hover{
+	cursor : pointer;
+}
+
 #UMocha{
 	position : relative;
 	top : -45px;
