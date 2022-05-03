@@ -57,3 +57,32 @@
 	position : relative;
 	right : -10%;
 }
+
+.line{
+	background-color : black;
+	width : 150px;
+	height : 5px;
+}
+
+.top{
+	display :inline-block;
+	position : relative;
+	top : -300px;
+	transform : rotate(90deg);
+}
+
+.left{
+	display :inline-block;
+	position : relative;
+	top : -120px;
+	left : -20%;
+	transform : rotate(-45deg);
+}
+
+.right{
+	display :inline-block;
+	position : relative;
+	top : -120px;
+	right : -20%;
+	transform : rotate(45deg);
+}
