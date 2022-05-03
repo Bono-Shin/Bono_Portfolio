@@ -98,3 +98,18 @@
 	border-radius : 5px;
 	margin : 2px 1px 2px 1px;
 }
+
+.projectLogo{
+	display : inline-block;
+}
+
+.projectLogo img{
+	width : 45%;
+	position : relative;
+	top : -10px;
+}
+
+#UMocha{
+	position : relative;
+	top : -45px;
+}
