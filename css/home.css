@@ -67,7 +67,7 @@
 .top{
 	display :inline-block;
 	position : relative;
-	top : -385px;
+	top : -475px;
 	left : 12%;
 	transform : rotate(90deg);
 }
@@ -75,7 +75,7 @@
 .left{
 	display :inline-block;
 	position : relative;
-	top : -170px;
+	top : -250px;
 	left : -11%;
 	transform : rotate(-45deg);
 }
@@ -83,7 +83,7 @@
 .right{
 	display :inline-block;
 	position : relative;
-	top : -170px;
+	top : -250px;
 	right : 1%;
 	transform : rotate(45deg);
 }
