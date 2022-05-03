@@ -41,7 +41,7 @@
 
 .menu2{
 	position : relative;
-	bottom : -34%;
+	bottom : -35%;
 }
 
 .skill{
@@ -51,12 +51,16 @@
 	left : -10%;
 }
 
+.skillAll{
+	margin-top : 10px;
+}
+
 .about{
 	margin : 0;
 	display : inline-block;
 	position : relative;
 	right : -10%;
-	top: -72px;
+	top: -82px;
 }
 
 .line{
