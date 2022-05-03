@@ -93,6 +93,17 @@
 	font-size : 1.2rem;
 }
 
+.aboutDiv{
+	position : relative;
+	top : 38px;
+	font-size : 2rem;
+}
+
+.aboutDiv:hover{
+	cursor : pointer;
+	color : #00CED1;
+}
+
 .skills{
 	display : inline-block;
 	background-color : 	#40E0D0;
