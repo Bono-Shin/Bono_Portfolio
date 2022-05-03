@@ -22,7 +22,7 @@
 	display : block;
 	width : 100px;
 	position : relative;
-	top : 42%;
+	top : 44%;
 }
 
 .menu{
@@ -41,7 +41,7 @@
 
 .menu2{
 	position : relative;
-	bottom : -37%;
+	bottom : -34%;
 }
 
 .skill{
@@ -68,7 +68,7 @@
 .top{
 	display :inline-block;
 	position : relative;
-	top : -475px;
+	top : -455px;
 	left : 12%;
 	transform : rotate(90deg);
 }
