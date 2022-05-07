@@ -8,3 +8,24 @@ table{
 		border : 1px solid black;
 		vertical-align : middle;
 	}
+.home{
+	height : 0px;
+}
+
+.home img{
+	width : 25px;
+	z-index : 2;
+	position : relative;
+	left : -47%;
+	top : 10px;
+}
+
+.home div{
+	position : relative;
+	left : -47%;
+	top : 3px;
+}
+
+.home label:hover{
+	cursor : pointer;
+}
