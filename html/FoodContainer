@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Bono_Portfolio_FoodContainer</title>
+</head>
+<link href="/Bono_Portfolio/css/base.css" rel="styleSheet">
+<link href="/Bono_Portfolio/css/FoodContainer.css" rel="styleSheet">
+<body>
+	<section>
+		<div class="mainSection">
+			<div class="home">
+				<label onclick="location.href='/Bono_Portfolio/html/home.html'">
+					<img src="/Bono_Portfolio/image/home.png" alt="home">
+					<div>홈화면</div>
+				</label>
+			</div>
+			<table>
+				<tbody>
+					<tr>
+						<td rowspan="9" width="300px">
+							<img src="/Bono_Portfolio/image/UMocha_Logo.png" alt="UMocha_Logo" style="width:300px;">
+						</td>
+						<th width="100px">프로젝트 이름</th>
+						<td>FoodContainer</td>
+					</tr>
+					<tr>
+						<th>프로젝트 종류</th>
+						<td>팀 프로젝트</td>
+					</tr>
+					<tr>
+						<th>총 개발 기간</th>
+						<td>22.02.21 ~ 22.04.27</td>
+					</tr>
+					<tr>
+						<th>투입 인원</th>
+						<td>4</td>
+					</tr>
+					<tr>
+						<th>사용 된 기술</th>
+						<td>
+							Java / Javascript / jQuery / CSS <br>
+							 / JSP / Json / Ajax / Mysql
+						</td>
+					</tr>
+					<tr>
+						<th>프로젝트 요약</th>
+						<td style="text-align:left; text-indent:10px; padding-left:5px;">
+							MVC1 까지 학습한 후 처음 진행 된 개인 프로젝트.<br>
+							주제를 무엇으로 할까 고민하던 중, 평소에 자동차를 좋아해서 <br>
+							자동차에 관련 된 웹 페이지를 만들어 보기로 했다.<br>
+							비록, 차량 수가 많지는 않지만 차량의 색상을 미리 입혀보거나,<br>
+							옵션으로 제공 된 자동차 휠도 교체해 볼 수 있고,<br>
+							트림 별 옵션 및 옵션에 대한 설명, 가격 등을 제공한다.
+						</td>
+					</tr>
+					<tr>
+						<th>후기</th>
+						<td style="text-align:left; text-indent:10px; padding-left:5px;">
+							첫 프로젝트 진행 후 가장 크게 달라진 점은,<br>
+							그동안 배운 내용들을 가지고 생각한 모습대로 풀어낼 수<br>
+							있어졌다는 점이다. (물론 굉장히 많이 헤맸다.)<br>
+							전부는 아니더라도 생각한대로 구현한다는 것 또한 즐거웠다.<br>
+							이전 직무와 비교했을 때, 아이템을 구현하는데 있어서는<br>
+							제약이 없다고 느껴질 정도로 자유로운 것 같았다.
+						</td>
+					</tr>
+					<tr>
+						<th>프로젝트 링크</th>
+						<td>-</td>
+					</tr>
+					<tr>
+						<th>Github 링크</th>
+						<td>
+							<a href="https://github.com/Bono-Shin/UMoCha">https://github.com/Bono-Shin/UMoCha</a>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</section>
+</body>
+</html>
